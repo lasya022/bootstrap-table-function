@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Poppins:wght@100&family=Ubuntu:wght@300&family=Varela+Round&display=swap');
+.table-container {
+    margin-top: 30px;
+    border-radius: 12px;
+    max-width: 95%;
+    width: 100%;
+    background-color: white;
+    }
+
+    .user-table-row:hover{
+        background: rgba(234, 234, 234, 0.4);
+    }
+       .user-table-row{
+        text-align: center;
+        font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    padding: 1rem !important;
+    color: #000000;
+       }
+        .user-table-heading {
+            text-align: center;
+            font-family: 'Manrope';
+            font-style: normal;
+            font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;  
+        }
+       
